@@ -13,3 +13,5 @@ For the importing to work, the name of the image needs to be the same as the Hea
 
 # Setup required to open Widget
 ![image](https://github.com/CasTrines/Unreal2DHeatmap/assets/90839770/28e89f48-61a7-4109-96cf-1506cf5a942a)
+![image](https://github.com/CasTrines/Unreal2DHeatmap/assets/90839770/6f80119a-4fb3-4f57-a8b4-abe42036e66c)
+
