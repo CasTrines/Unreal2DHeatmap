@@ -4,6 +4,7 @@
 
 A very simple drag and drop Heatmap for anything 2D in Unreal engine.
 This heatmap plugin allows you to export the heatmaps as images, import them easily back into the game and gives the choice between a Top-Down view and a Side view.
+
 Additionally, as many actors as needed can be added for the heatmap to trace, by default it takes the player character to trace.
 There is no limit to how many heatmaps can be placed, however performance impact of doing such has not been tested.
 For public builds, you likely want to hide the heatmaps ingame so that they are not visible in the background, in-engine this can be set back to visible to view heatmaps during play, everything can be done during playtime.
