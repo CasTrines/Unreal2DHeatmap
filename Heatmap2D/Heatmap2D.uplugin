@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Heatmap2D",
+	"Description": "2D Heatmaps",
+	"Category": "Analytics",
+	"CreatedBy": "Cas Trines",
+	"CreatedByURL": "https://castrines1998.wixsite.com/castrines",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"Installed": true
+}
