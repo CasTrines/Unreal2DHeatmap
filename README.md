@@ -17,3 +17,6 @@ For the importing to work, the name of the image needs to be the same as the Hea
 ![image](https://github.com/CasTrines/Unreal2DHeatmap/assets/90839770/28e89f48-61a7-4109-96cf-1506cf5a942a)
 ![image](https://github.com/CasTrines/Unreal2DHeatmap/assets/90839770/6f80119a-4fb3-4f57-a8b4-abe42036e66c)
 
+# Credits
+This heatmaps is based on a tutorial from Robert Potter and expanded upon to be more useful in a real production setting, such as the addition of importing, exporting, additional perspective to trace and being able to trace whatever actor you want.
+Link to original tutorial: https://www.youtube.com/watch?v=QL51f8qdsm8
